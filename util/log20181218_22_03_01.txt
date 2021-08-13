@@ -1,0 +1,2 @@
+skiped	B:/Collaboration/20171109_flight_test#23c/raw_data/SDAR/chipscope/ft20171109_49061_0.prn
+1 file(s) skipped

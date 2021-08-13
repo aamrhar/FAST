@@ -1,0 +1,66 @@
+2017-11-28 22:49:45,708 WARN get_wbr_figs - cmd skipped:fig=obj.plot_wbr_ber(4); Reference to non-existent field 'WRX'. in FT_Cessna.plot_wbr_ber line:1074
+2017-11-28 22:49:45,729 DEBUG fig=obj.plot_wbr_ber(4); - FT_Cessna.plot_wbr_ber line: 1074
+2017-11-28 22:49:45,782 DEBUG fig=obj.plot_wbr_ber(4); - FT_Cessna.get_wbr_figs line: 2398
+2017-11-28 22:49:45,786 DEBUG fig=obj.plot_wbr_ber(4); - FT_Cessna.get_all_figs line: 2458
+2017-11-28 22:49:45,793 DEBUG fig=obj.plot_wbr_ber(4); - Get_Figs_Callback line: 500
+2017-11-28 22:49:45,847 DEBUG fig=obj.plot_wbr_ber(4); - gui_mainfcn line: 95
+2017-11-28 22:49:45,848 DEBUG fig=obj.plot_wbr_ber(4); - FAST line: 42
+2017-11-28 22:49:45,850 DEBUG fig=obj.plot_wbr_ber(4); - @(hObject,eventdata)FAST('Get_Figs_Callback',hObject,eventdata,guidata(hObject)) line: 0
+2017-11-28 22:49:45,899 WARN get_wbr_figs - cmd skipped:fig=obj.plot_wbr_8rate(4); Reference to non-existent field 'WRX'. in FT_Cessna.plot_wbr_8rate line:1010
+2017-11-28 22:49:45,901 DEBUG fig=obj.plot_wbr_8rate(4); - FT_Cessna.plot_wbr_8rate line: 1010
+2017-11-28 22:49:45,902 DEBUG fig=obj.plot_wbr_8rate(4); - FT_Cessna.get_wbr_figs line: 2398
+2017-11-28 22:49:45,903 DEBUG fig=obj.plot_wbr_8rate(4); - FT_Cessna.get_all_figs line: 2458
+2017-11-28 22:49:45,908 DEBUG fig=obj.plot_wbr_8rate(4); - Get_Figs_Callback line: 500
+2017-11-28 22:49:45,909 DEBUG fig=obj.plot_wbr_8rate(4); - gui_mainfcn line: 95
+2017-11-28 22:49:45,911 DEBUG fig=obj.plot_wbr_8rate(4); - FAST line: 42
+2017-11-28 22:49:45,913 DEBUG fig=obj.plot_wbr_8rate(4); - @(hObject,eventdata)FAST('Get_Figs_Callback',hObject,eventdata,guidata(hObject)) line: 0
+2017-11-28 22:49:45,921 WARN get_wbr_figs - cmd skipped:fig=obj.get_wbr_summary(q,4); Output argument "fig" (and maybe others) not assigned during call to "FT_Cessna/get_wbr_summary". in FT_Cessna.get_wbr_figs line:2398
+2017-11-28 22:49:45,923 DEBUG fig=obj.get_wbr_summary(q,4); - FT_Cessna.get_wbr_figs line: 2398
+2017-11-28 22:49:45,925 DEBUG fig=obj.get_wbr_summary(q,4); - FT_Cessna.get_all_figs line: 2458
+2017-11-28 22:49:45,926 DEBUG fig=obj.get_wbr_summary(q,4); - Get_Figs_Callback line: 500
+2017-11-28 22:49:45,927 DEBUG fig=obj.get_wbr_summary(q,4); - gui_mainfcn line: 95
+2017-11-28 22:49:45,929 DEBUG fig=obj.get_wbr_summary(q,4); - FAST line: 42
+2017-11-28 22:49:45,930 DEBUG fig=obj.get_wbr_summary(q,4); - @(hObject,eventdata)FAST('Get_Figs_Callback',hObject,eventdata,guidata(hObject)) line: 0
+2017-11-28 22:49:45,934 WARN get_wbr_figs - cmd skipped:fig=obj.plot_snr_distance(4); Reference to non-existent field 'WRX'. in FT_Cessna.plot_snr_distance line:1134
+2017-11-28 22:49:45,936 DEBUG fig=obj.plot_snr_distance(4); - FT_Cessna.plot_snr_distance line: 1134
+2017-11-28 22:49:45,938 DEBUG fig=obj.plot_snr_distance(4); - FT_Cessna.get_wbr_figs line: 2398
+2017-11-28 22:49:45,941 DEBUG fig=obj.plot_snr_distance(4); - FT_Cessna.get_all_figs line: 2458
+2017-11-28 22:49:45,943 DEBUG fig=obj.plot_snr_distance(4); - Get_Figs_Callback line: 500
+2017-11-28 22:49:45,945 DEBUG fig=obj.plot_snr_distance(4); - gui_mainfcn line: 95
+2017-11-28 22:49:45,946 DEBUG fig=obj.plot_snr_distance(4); - FAST line: 42
+2017-11-28 22:49:45,948 DEBUG fig=obj.plot_snr_distance(4); - @(hObject,eventdata)FAST('Get_Figs_Callback',hObject,eventdata,guidata(hObject)) line: 0
+2017-11-28 22:49:46,161 WARN get_wbr_figs - cmd skipped:fig=obj.plot_power_sdar(4) Reference to non-existent field 'WBR'. in FT_Cessna.plot_power_sdar line:1206
+2017-11-28 22:49:46,163 DEBUG fig=obj.plot_power_sdar(4) - FT_Cessna.plot_power_sdar line: 1206
+2017-11-28 22:49:46,164 DEBUG fig=obj.plot_power_sdar(4) - FT_Cessna.get_wbr_figs line: 2398
+2017-11-28 22:49:46,166 DEBUG fig=obj.plot_power_sdar(4) - FT_Cessna.get_all_figs line: 2458
+2017-11-28 22:49:46,168 DEBUG fig=obj.plot_power_sdar(4) - Get_Figs_Callback line: 500
+2017-11-28 22:49:46,170 DEBUG fig=obj.plot_power_sdar(4) - gui_mainfcn line: 95
+2017-11-28 22:49:46,171 DEBUG fig=obj.plot_power_sdar(4) - FAST line: 42
+2017-11-28 22:49:46,172 DEBUG fig=obj.plot_power_sdar(4) - @(hObject,eventdata)FAST('Get_Figs_Callback',hObject,eventdata,guidata(hObject)) line: 0
+2017-11-28 22:49:48,803 WARN get_mgs_figs - cmd skipped:fig=obj.plot_adsbin_fl(i,true) Invalid arguments specified in evaluating the interpolant. in interpn line:179
+2017-11-28 22:49:48,867 DEBUG fig=obj.plot_adsbin_fl(i,true) - interpn line: 179
+2017-11-28 22:49:48,869 DEBUG fig=obj.plot_adsbin_fl(i,true) - Ublox.utc2pos line: 145
+2017-11-28 22:49:48,870 DEBUG fig=obj.plot_adsbin_fl(i,true) - FT_Cessna.utc2slant_range line: 2284
+2017-11-28 22:49:48,871 DEBUG fig=obj.plot_adsbin_fl(i,true) - FT_Cessna.plot_sadsb_records_vs_slant line: 1923
+2017-11-28 22:49:48,873 DEBUG fig=obj.plot_adsbin_fl(i,true) - FT_Cessna.get_mgs_figs line: 2432
+2017-11-28 22:49:48,874 DEBUG fig=obj.plot_adsbin_fl(i,true) - FT_Cessna.get_all_figs line: 2460
+2017-11-28 22:49:48,875 DEBUG fig=obj.plot_adsbin_fl(i,true) - Get_Figs_Callback line: 500
+2017-11-28 22:49:48,877 DEBUG fig=obj.plot_adsbin_fl(i,true) - gui_mainfcn line: 95
+2017-11-28 22:49:48,878 DEBUG fig=obj.plot_adsbin_fl(i,true) - FAST line: 42
+2017-11-28 22:49:48,879 DEBUG fig=obj.plot_adsbin_fl(i,true) - @(hObject,eventdata)FAST('Get_Figs_Callback',hObject,eventdata,guidata(hObject)) line: 0
+2017-11-28 22:49:48,883 WARN get_mgs_figs - cmd skipped:fig=obj.plot_adsbin_fl(i,true) Reference to non-existent field 'WTX'. in FT_Cessna.plot_mgs_wbr_mod line:2006
+2017-11-28 22:49:48,885 DEBUG fig=obj.plot_adsbin_fl(i,true) - FT_Cessna.plot_mgs_wbr_mod line: 2006
+2017-11-28 22:49:48,886 DEBUG fig=obj.plot_adsbin_fl(i,true) - FT_Cessna.get_mgs_figs line: 2432
+2017-11-28 22:49:48,888 DEBUG fig=obj.plot_adsbin_fl(i,true) - FT_Cessna.get_all_figs line: 2460
+2017-11-28 22:49:48,889 DEBUG fig=obj.plot_adsbin_fl(i,true) - Get_Figs_Callback line: 500
+2017-11-28 22:49:48,890 DEBUG fig=obj.plot_adsbin_fl(i,true) - gui_mainfcn line: 95
+2017-11-28 22:49:48,891 DEBUG fig=obj.plot_adsbin_fl(i,true) - FAST line: 42
+2017-11-28 22:49:48,892 DEBUG fig=obj.plot_adsbin_fl(i,true) - @(hObject,eventdata)FAST('Get_Figs_Callback',hObject,eventdata,guidata(hObject)) line: 0
+2017-12-11 19:07:40,763 WARN run_analysis - FPGA log not found.
+2017-12-11 19:07:40,787 INFO init - FT_Cessna created
+2017-12-11 19:07:40,790 INFO init - visibility is set to off
+2017-12-11 19:07:40,834 WARN run_analysis - transcript file not found.
+2017-12-11 19:12:17,663 WARN run_analysis - FPGA log not found.
+2017-12-11 19:12:17,669 INFO init - FT_Cessna created
+2017-12-11 19:12:17,670 INFO init - visibility is set to off
+2017-12-11 19:12:17,731 WARN run_analysis - transcript file not found.
