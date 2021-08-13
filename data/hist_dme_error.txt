@@ -1,0 +1,1 @@
+This histogram shows the distribution of the absolute distance error relative to the specified station. MOPS valid values are delimited with the green rectangle.

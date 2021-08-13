@@ -1,0 +1,1 @@
+This figure shows where DME records where acquired through the test. The position of the interrogated DME station is at the origin. 

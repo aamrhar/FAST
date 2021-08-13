@@ -1,0 +1,1 @@
+This figures shows the percentage of total time used by each systems in a pie chart. Standby time should be very low or almost inexistent, as the MM-SDAR can switch between modes almost instantly.

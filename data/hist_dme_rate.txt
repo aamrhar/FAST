@@ -1,0 +1,3 @@
+This figure shows when the DME system was tracking and also shows the distance of the aircraft from the station at each events. A time-line of the events is displayed on the bottom subplot.
+
+When DME is tracking, the number of records is also shown on the secondary y axis.

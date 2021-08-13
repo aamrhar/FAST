@@ -1,0 +1,1 @@
+This figure shows the trajectory of the aircraft and the systems being used. There is two subplots, one for radio 1 and one for radio 2 of the Multi-Mode Software Defined Radio (MM-SDAR).

@@ -1,0 +1,1 @@
+This figure shows the absolute distance error relative to the the specified station. MOPS high and low bounds are also shown to validate the accuracy of the system. A Ublox GPS on-board the plane is used as reference. 

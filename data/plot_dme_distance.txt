@@ -1,0 +1,1 @@
+This figures shows the measured DME slant range from the specified station. A Ublox GPS on-board the plane is used as reference.

@@ -1,0 +1,1 @@
+This figure shows the CPU load and temperature through the test. It is interesting to compare CPU load VS systems used. Usually, WBR is the mode that requires the most resources from the CPU. This figure can also be used to identify possible system crash and their occurrence.
